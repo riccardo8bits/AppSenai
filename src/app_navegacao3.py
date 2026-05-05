@@ -71,7 +71,7 @@ def main(page: flet.Page):
 
 
 
-
+#
 
     # Navegar
     def navegate(route):

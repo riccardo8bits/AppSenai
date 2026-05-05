@@ -32,7 +32,7 @@ def main(page: flet.Page):
 
 
                 route="/",
-                controls=[
+                controls=[#
                     flet.AppBar(
                         title="First Page",
                         bgcolor=Colors.PINK
